@@ -1,0 +1,1 @@
+This is simply the FizzBuzz challenge written in C++. The one twist to this is that now it has the same grammatical gender as a typical Romance or Afro-Asiatic language. This was done simply by having all the even numbers classed as "feminine" and all the odd numbers classed as "masculine".
